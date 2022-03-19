@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "customerName": "Tom",
+    "transactionAmount": 120,
+    "transactionDateTime": "2022-02-15",
+    "reward": 90
+  },
+  {
+    "id": 5,
+    "customerName": "Tom",
+    "transactionAmount": 150,
+    "transactionDateTime": "2022-02-19",
+    "reward": 150
+  },
+  {
+    "id": 6,
+    "customerName": "Tom",
+    "transactionAmount": 289,
+    "transactionDateTime": "2022-03-10",
+    "reward": 428
+  },
+  {
+    "id": 2,
+    "customerName": "Jerry",
+    "transactionAmount": 150,
+    "transactionDateTime": "2022-02-13",
+    "reward": 150
+  },
+  {
+    "id": 7,
+    "customerName": "Jerry",
+    "transactionAmount": 450,
+    "transactionDateTime": "2022-02-14",
+    "reward": 750
+  },
+  {
+    "id": 8,
+    "customerName": "Jerry",
+    "transactionAmount": 300,
+    "transactionDateTime": "2022-03-24",
+    "reward": 450
+  },
+  {
+    "id": 9,
+    "customerName": "Jerry",
+    "transactionAmount": 199,
+    "transactionDateTime": "2022-03-17",
+    "reward": 248
+  },
+  {
+    "id": 3,
+    "customerName": "Sam",
+    "transactionAmount": 170,
+    "transactionDateTime": "2022-02-05",
+    "reward": 190
+  },
+  {
+    "id": 4,
+    "customerName": "Glenn",
+    "transactionAmount": 190,
+    "transactionDateTime": "2022-02-23",
+    "reward": 230
+  }
+]
